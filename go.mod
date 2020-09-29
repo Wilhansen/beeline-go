@@ -1,4 +1,4 @@
-module github.com/honeycombio/beeline-go
+module github.com/Wilhansen/beeline-go
 
 go 1.13
 
